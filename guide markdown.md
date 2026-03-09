@@ -1,6 +1,6 @@
 
 
-
+# Your Accessibility Guide
 ---
 
 <details>
@@ -194,14 +194,6 @@
   - H6. Skip Links
   - H7. Testing Keyboard Accessibility
 </details>
-
-# your accessibility guide
-
-### Question  
->What are you working on?
-  
-### Options  
-# Your Accessibility Guide
 
 ## What are you working on?
 
