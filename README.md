@@ -24,7 +24,11 @@ It is designed to help identify accessibility requirements, common implementatio
 
 Open the main guide here:
 
+<<<<<<< HEAD
+- [Open the guide](guide.md)
+=======
 - [Open the guide](guide_markdown.md)
+>>>>>>> origin/main
 
 ## Guide Structure
 
