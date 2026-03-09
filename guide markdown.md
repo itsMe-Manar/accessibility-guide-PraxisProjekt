@@ -213,7 +213,7 @@
 ### Question  
 >_What type of content ?_  
   
-### Options  ****
+### Options
 - Images 
 - video content 
 - audio content  
