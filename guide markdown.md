@@ -218,12 +218,19 @@
 >_What type of content ?_  
   
 ### Options
-- Images 
-- video content 
-- audio content  
+- [Images](#a1-images)
+- [Video content](#a2-video)
+- [Audio content](#a3-audio)
   
 - - -
 # A1. Images
+
+### Question  
+>_What is the purpose of this image?_  
+
+- [Informative](#a1-1-informative-images)
+- [Decorative](#a1-2-decorative-images)
+- [Functional](#a1-3-functional-images)
 
 ## A1-1. Informative Images
 
@@ -231,8 +238,8 @@
 > _in the information simple or complex ?_
 
 ### Options
-- Simple Informative Images (can be described briefly in alt text)
-- Complex Images (requires detailed description: charts, diagrams, infographics, maps)
+- [Simple](#a1-1-1-simple-informative-images)
+- [Complex](#a1-1-2-complex-images)
 
 ---
 
@@ -332,10 +339,10 @@ background-image: url("pattern.png");
 >_What type of functional element is this image part of?_  
   
 ### Options  
--  Image Buttons / Controls  
-- Image Links  
-- Icons with Visible Text  
-- Standalone Icon Controls  
+- [Button or control](#a1-3-1-image-buttons-controls)
+- [Link to another page](#a1-3-2-image-links)
+- [Icon with visible text label](#a1-3-3-icons-with-visible-text)
+- [Icon standing alone](#a1-3-4-standalone-icon-controls)
   
 ---  
   
@@ -458,8 +465,8 @@ Settings
 > _Does your video include audio?_  
   
 ### Options  
-- Yes, includes audio (dialogue, music, narration)
-- No, silent video only
+- [Yes, includes audio](#a2-1-video-with-audio)
+- [No, silent video only](#a2-2-video-only-no-audio)
 
 ---  
 ## A2-1. Video with Audio  
@@ -468,8 +475,8 @@ Settings
 > _Is this video prerecorded or live?_  
   
 ### Options  
-- Prerecorded
-- Live
+- [Prerecorded](#a2-1-1-prerecorded-video-with-audio)
+- [Live](#a2-1-2-live-video-with-audio)
   
 ---  
   
@@ -567,8 +574,8 @@ are folded down on both sides.
 > _Is this audio prerecorded or live?  
   
 ### Checklist  
-- Prerecorded
-- Live
+- [Prerecorded](#a3-1-prerecorded-audio-only-content)
+- [Live](#a3-2-live-audio-content)
   
 ## A3-1. Prerecorded Audio-only Content  
 
