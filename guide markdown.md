@@ -637,13 +637,13 @@ Your browser doesn't support audio.
 > _What type of form element are you working with?_  
 
 ### Options  
-- Text input fields
-- Select dropdowns
-- Checkboxes
-- Radio buttons
-- Textarea
-- File upload
-- Other form elements (date pickers, search, range sliders)
+- [Text input fields](#b1-text-input-fields)
+- [Select dropdowns](#b2-select-dropdowns)
+- [Checkboxes](#b3-checkboxes)
+- [Radio buttons](#b4-radio-buttons)
+- [Textarea](#b5-textarea)
+- [File upload](#b6-file-upload)
+- [Other form elements](#b7-other-form-elements)
 
 ---
 
@@ -653,12 +653,12 @@ Your browser doesn't support audio.
 > _What type of data does this input collect?_  
 
 ### Options  
-- Personal information (name, email, phone, address)
-- Password or sensitive data
-- General text input
-- Numbers or specific formats
-- Search query
-- None of these. I want to learn about error handling
+- [Personal information](#b1-1-personal-information-inputs)
+- [Password or sensitive data](#b1-2-password-inputs)
+- [General text input](#b1-3-general-text-inputs)
+- [Numbers or specific formats](#b1-4-formatted-number-inputs)
+- [Search query](#b1-5-search-inputs)
+- [Error handling](#b1-6-form-validation-errors)
 
 ---
 
@@ -984,8 +984,8 @@ Your browser doesn't support audio.
 > _Is this a native HTML select or a custom dropdown component?_  
 
 ### Options  
-- Native HTML select element
-- Custom-built dropdown
+- [Native HTML select element](#b2-1-native-select-dropdowns)
+- [Custom-built dropdown](#b2-2-custom-dropdown-components)
 
 ---
 
@@ -1089,8 +1089,8 @@ Your browser doesn't support audio.
 > _How many checkboxes are you implementing?_  
 
 ### Options  
-- Single standalone checkbox
-- Group of related checkboxes
+- [Single standalone checkbox](#b3-1-single-checkbox)
+- [Group of related checkboxes](#b3-2-checkbox-group)
 
 ---
 
@@ -1329,10 +1329,10 @@ Your browser doesn't support audio.
 > _What specific element type?_  
 
 ### Options  
-- Date/time picker
-- Range slider
-- Color picker
-- Number input with steppers
+- [Date/time picker](#b7-1-date-time-input-fields)
+- [Range slider](#b7-2-range-slider)
+- [Color picker](#b7-3-color-picker-inputs)
+- [Number input with steppers](#b7-4-number-input-fields)
 
 ---
 
@@ -1531,13 +1531,13 @@ Your browser doesn't support audio.
 > _What type of link or navigation element are you working with?_  
 
 ### Options  
-- Text links
-- Navigation menus
-- Skip links
-- Breadcrumbs
-- Pagination
-- Anchor links (jump to section on same page)
-- Links that open in new window/tab
+- [Text links](#c1-text-links)
+- [Navigation menus](#c2-navigation-menus)
+- [Skip links](#c3-skip-links)
+- [Breadcrumbs](#c4-breadcrumbs)
+- [Pagination](#c5-pagination)
+- [Anchor links](#c6-anchor-jump-links)
+- [Links that open in new window/tab](#c7-links-that-open-in-new-window-tab)
 
 ---
 
@@ -1547,10 +1547,10 @@ Your browser doesn't support audio.
 > _Does the link text clearly describe where it goes or what it does?_  
 
 ### Options  
-- Yes, the link text is descriptive (e.g., "View our pricing plans")
-- No, it uses generic text (e.g., "Click here", "Read more", "Learn more")
-- It's an image link
-- It's an icon link
+- [Yes, descriptive text](#c1-1-descriptive-text-links)
+- [No, generic text](#c1-2-improving-generic-links)
+- [It's an image link](#c1-3-image-links)
+- [It's an icon link](#c1-4-icon-links)
 
 ---
 
@@ -1632,8 +1632,8 @@ Your browser doesn't support audio.
 > _Does the image have text next to it in the link?_  
 
 ### Options  
-- Yes, image and text are both inside the link
-- No, only the image is inside the link
+- [Yes, image and text](#c1-3-1-image-links-with-text)
+- [No, image only](#c1-3-2-image-only-links)
 
 ---
 
@@ -1708,9 +1708,9 @@ Company Name
 > _Does the icon have visible text next to it?_  
 
 ### Options  
-- Yes, icon and text both visible
-- No, icon only
-
+- [Yes, icon and text both visible](#c1-4-1-icon-links-with-text)
+- [No, icon only](#c1-4-2-icon-only-links)
+  
 ---
 
 ### C1-4-1. Icon Links with Text
@@ -1787,11 +1787,11 @@ Company Name
 > _What type of navigation menu?_  
 
 ### Options  
-- Main site navigation
-- Secondary or utility navigation (account, cart, search)
-- Footer navigation
-- Dropdown/mega menu navigation
-- Sidebar navigation
+- [Main site navigation](#c2-1-main-navigation)
+- [Secondary or utility navigation](#c2-2-secondary-navigation)
+- [Footer navigation](#c2-3-footer-navigation)
+- [Dropdown/mega menu navigation](#c2-4-dropdown-navigation)
+- [Sidebar navigation](#c2-5-sidebar-navigation)
 
 ---
 
@@ -2224,14 +2224,14 @@ External site
 > _What text element are you working with?_  
 
 ### Options  
-- Headings
-- Paragraphs and body text
-- Lists
-- Tables
-- Quotes
-- Text emphasis and semantic styling
-- Font size and zoom
-- Language
+- [Headings](#d1-headings)
+- [Paragraphs and body text](#d2-paragraphs-and-body-text)
+- [Lists](#d3-lists)
+- [Tables](#d4-tables)
+- [Quotes](#d5-quotes)
+- [Text emphasis and semantic styling](#d6-text-emphasis-and-semantic-styling)
+- [Font size and zoom](#d7-font-size-and-zoom)
+- [Language](#d8-language)
 
 ---
 
@@ -2241,8 +2241,8 @@ External site
 > _Is this the main page title or a section heading?_  
 
 ### Options  
-- Main page title (H1)
-- Section headings (H2-H6)
+- [Main page title (H1)](#d1-1-page-title-h1)
+- [Section headings (H2-H6)](#d1-2-section-headings)
 
 ---
 
@@ -2324,10 +2324,10 @@ External site
 > _What aspect of body text are you working on?_  
 
 ### Options  
-- Color and contrast
-- Spacing and line height
-- Alignment and line length
-- General text content
+- [Color and contrast](#d2-1-text-color-and-contrast)
+- [Spacing and line height](#d2-2-text-spacing)
+- [Alignment and line length](#d2-3-text-alignment-and-line-length)
+- [General text content](#d2-4-general-text-content)
 
 ---
 
@@ -2462,10 +2462,10 @@ p {
 > _What type of list?_  
 
 ### Options  
-- Unordered list (items with no particular order)
-- Ordered list (items in a specific sequence)
-- Description list (terms and definitions)
-- Nested lists (lists within lists)
+- [Unordered list](#d3-1-unordered-lists)
+- [Ordered list](#d3-2-ordered-lists)
+- [Description list](#d3-3-description-lists)
+- [Nested lists](#d3-4-nested-lists)
 
 ---
 
@@ -2602,9 +2602,9 @@ p {
 > _What type of table?_  
 
 ### Options  
-- Simple data table (one row of headers)
-- Complex data table (multiple header rows or spanning cells)
-- Layout table (not recommended)
+- [Simple data table](#d4-1-simple-data-tables)
+- [Complex data table](#d4-2-complex-data-tables)
+- [Layout table](#d4-3-layout-tables)
 
 ---
 
@@ -2753,8 +2753,8 @@ p {
 > _What type of quote?_  
 
 ### Options  
-- Short inline quote
-- Long block quote
+- [Short inline quote](#d5-1-inline-quotes)
+- [Long block quote](#d5-2-block-quotes)
 
 ---
 
@@ -2817,12 +2817,11 @@ p {
 > _What type of text emphasis?_  
 
 ### Options  
-- Important or strong emphasis
-- Stress emphasis (italic)
-- Deleted or inserted text
-- Highlighted or marked text
-- Code or technical text
-
+- [Important or strong emphasis](#d6-1-strong-emphasis)
+- [Stress emphasis (italic)](#d6-2-stress-emphasis-italic)
+- [Deleted or inserted text](#d6-3-deleted-and-inserted-text)
+- [Highlighted or marked text](#d6-4-highlighted-text)
+- [Code or technical text](#d6-5-code-and-technical-text)
 ---
 
 ## D6-1. Strong Emphasis
@@ -3015,9 +3014,9 @@ p {
 > _What language concern do you have?_  
 
 ### Options  
-- Setting the page language
-- Content in a different language within the page
-- Abbreviations
+- [Setting the page language](#d8-1-page-language)
+- [Content in a different language within the page](#d8-2-language-changes-within-a-page)
+- [Abbreviations](#d8-3-abbreviations)
 
 ---
 
@@ -3107,15 +3106,15 @@ p {
 > _What type of interactive component are you working with?_  
 
 ### Options  
-- Buttons
-- Modal dialogs
-- Tooltips
-- Accordions
-- Tabs
-- Carousels/sliders
-- Toggle switches
-- Autocomplete/typeahead
-- Disclosure (show/hide content)
+- [Buttons](#e1-buttons)
+- [Modal dialogs](#e2-modal-dialogs)
+- [Tooltips](#e3-tooltips)
+- [Accordions](#e5-accordions)
+- [Tabs](#e4-tabs)
+- [Carousels/sliders](#e6-carousels-sliders)
+- [Toggle switches](#e7-toggle-switches)
+- [Autocomplete/typeahead](#e8-autocomplete-typeahead)
+- [Disclosure (show/hide content)](#e9-disclosure-show-hide-content)
 
 ---
 
@@ -3125,10 +3124,10 @@ p {
 > _What does the button do?_  
 
 ### Options  
-- Submits a form
-- Triggers an action on the page (save, delete, play, etc.)
-- Opens something (modal, menu, popover)
-- It looks like a button but takes you to another page
+- [Submits a form](#e1-2-form-submit-buttons)
+- [Triggers an action on the page](#e1-3-action-buttons)
+- [Opens something](#e1-4-buttons-that-open-things)
+- [It looks like a button but takes you to another page](#e1-1-button-that-navigates-to-another-page)
 
 ---
 
@@ -3192,8 +3191,8 @@ If your “button” takes the user to a different page or URL, it should be a l
 > _Does the button have visible text?_  
 
 ### Options  
-- Yes, text label is visible
-- No, icon only
+- [Yes, text label is visible](#e1-3-1-text-action-buttons)
+- [No, icon only](#e1-3-2-icon-only-buttons)
 
 ---
 
@@ -3283,11 +3282,11 @@ If your “button” takes the user to a different page or URL, it should be a l
 > _What does it open?_  
 
 ### Options  
-- Modal dialog
-- Dropdown menu
-- Popover or tooltip
-- Collapsible content
-- General information
+- [Modal dialog](#e2-modal-dialogs)
+- [Dropdown menu](#e1-4-5-buttons-that-open-things-general)
+- [Popover or tooltip](#e3-tooltips)
+- [Collapsible content](#e9-1-disclosure-widget)
+- [General information](#e1-4-5-buttons-that-open-things-general)
 
 ---
 
@@ -3331,8 +3330,8 @@ If your “button” takes the user to a different page or URL, it should be a l
 > _What type of dialog?_  
 
 ### Options  
-- Alert or confirmation dialog (user must respond)
-- General dialog/modal (content, forms, settings)
+- [Alert or confirmation dialog](#e2-1-alert-confirmation-dialogs)
+- [General dialog/modal](#e2-2-general-modal-dialogs)
 
 ---
 
@@ -3444,8 +3443,8 @@ If your “button” takes the user to a different page or URL, it should be a l
 > _Is the tooltip content essential to complete the task?_  
 
 ### Options  
-- Yes, user needs this information
-- No, it provides supplementary context
+- [Yes, user needs this information](#e3-1-essential-information-in-tooltips)
+- [No, it provides supplementary context](#e3-2-tooltips)
 
 ---
 
@@ -3642,7 +3641,7 @@ Do not put essential information only in a tooltip. If users need the informatio
 > _Does the carousel auto-rotate?_  
 
 ### Options  
-- Yes, content changes automatically
+- [Yes, content changes automatically](#e6-2-auto-rotating-carousel)
 
 ### Learn More
 - Carousel pattern: [ARIA Carousel Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/carousel/)
@@ -3674,8 +3673,8 @@ Do not put essential information only in a tooltip. If users need the informatio
 > _Is this a simple on/off toggle or a setting with more than two states?_  
 
 ### Options  
-- Simple on/off toggle
-- Setting with multiple states
+- [Simple on/off toggle](#e7-1-toggle-switch)
+- [Setting with multiple states](#e7-2-more-than-two-states)
 
 ---
 
@@ -3804,8 +3803,8 @@ Toggle switches are designed for exactly two states: on and off. When you have m
 > _Is this a single show/hide toggle or a group of collapsible sections?_  
 
 ### Options  
-- Single show/hide toggle
-- Group of collapsible sections
+- [Single show/hide toggle](#e9-1-disclosure-widget)
+- [Group of collapsible sections](#e5-1-accordions)
 
 ---
 
@@ -3855,14 +3854,14 @@ Toggle switches are designed for exactly two states: on and off. When you have m
 > _What aspect of page structure are you working with?_  
 
 ### Options  
-- Landmarks and regions
-- Page title
-- Content sections
-- Responsive layout
-- Reading order
-- Focus order
-- Scrollable regions
-- Iframes
+- [Landmarks and regions](#f1-landmarks-and-regions)
+- [Page title](#f2-page-title)
+- [Content sections](#f3-content-sections)
+- [Responsive layout](#f4-responsive-layout)
+- [Reading order](#f5-reading-order)
+- [Focus order](#f6-focus-order)
+- [Scrollable regions](#f7-scrollable-regions)
+- [Iframes](#f8-iframes)
 
 ---
 
@@ -3872,15 +3871,15 @@ Toggle switches are designed for exactly two states: on and off. When you have m
 > _Which landmark are you implementing?_  
 
 ### Options  
-- Header (banner)
-- Main content
-- Footer (contentinfo)
-- Navigation
-- Sidebar or complementary content
-- Search
-- Form region
-- Generic region
-- I'm not sure which landmarks I need
+- [Header (banner)](#f1-1-header-banner-landmark)
+- [Main content](#f1-2-main-content-landmark)
+- [Footer (contentinfo)](#f1-3-footer-contentinfo-landmark)
+- [Navigation](#c2-navigation-menus)
+- [Sidebar or complementary content](#f1-4-aside-complementary-landmark)
+- [Search](#b1-5-search-inputs)
+- [Form region](#f1-5-form-as-landmark)
+- [Generic region](#f1-7-section-region-landmark)
+- [I'm not sure which landmarks I need](#f1-9-choosing-landmarks)
 
 ---
 
@@ -4178,11 +4177,11 @@ Optional landmarks depend on the page:
 > _What content structure element are you working with?_  
 
 ### Options  
-- Article
-- Section within an article
-- Figure with caption
-- Aside within content
-- Generic content grouping
+- [Article](#f3-1-article-element)
+- [Section within an article](#f1-7-section-region-landmark)
+- [Figure with caption](#f3-2-figure-and-figcaption)
+- [Aside within content](#f1-4-aside-complementary-landmark)
+- [Generic content grouping](#f3-3-content-grouping)
 
 ---
 
@@ -4301,10 +4300,10 @@ Optional landmarks depend on the page:
 > _What responsive concern do you have?_  
 
 ### Options  
-- Content reflow when zoomed
-- Mobile layout and touch targets
-- Hiding/showing content at different sizes
-- Orientation
+- [Content reflow when zoomed](#f4-1-content-reflow)
+- [Mobile layout and touch targets](#f4-2-mobile-touch-accessibility)
+- [Hiding/showing content at different sizes](#f4-3-responsive-visibility)
+- [Orientation](#f4-4-screen-orientation)
 
 ---
 
@@ -4619,13 +4618,13 @@ h1 {
 > _What type of motion or timed element are you working with?_  
 
 ### Options  
-- Animations and transitions
-- Auto-playing content (video, audio, carousels)
-- Timed interactions (session timeouts, countdowns)
-- Parallax or scroll-based effects
-- Flashing or blinking content
-- Moving or auto-updating content (tickers, feeds)
-- Drag and drop interactions
+- [Animations and transitions](#g1-animations-and-transitions)
+- [Auto-playing content](#g2-auto-playing-content)
+- [Timed interactions](#g3-timed-interactions)
+- [Parallax or scroll-based effects](#g4-parallax-and-scroll-effects)
+- [Flashing or blinking content](#g5-flashing-and-blinking-content)
+- [Moving or auto-updating content](#g6-moving-or-auto-updating-content)
+- [Drag and drop interactions](#g7-drag-and-drop)
 
 ---
 
@@ -4635,10 +4634,10 @@ h1 {
 > _What type of animation?_  
 
 ### Options  
-- CSS transitions (hover, focus, state changes)
-- CSS keyframe animations (loading spinners, decorative motion)
-- JavaScript-driven animations (scroll animations, page transitions)
-- Animated images (GIFs, animated SVGs, animated WebP)
+- [CSS transitions](#g1-1-css-transitions)
+- [CSS keyframe animations](#g1-2-css-keyframe-animations)
+- [JavaScript-driven animations](#g1-3-javascript-animations)
+- [Animated images](#g1-4-animated-images-gifs-animated-svgs-webp)
 
 ---
 
@@ -4802,11 +4801,11 @@ button:hover {
 > _What type of auto-playing content?_  
 
 ### Options  
-- Auto-playing video
-- Auto-playing audio
-- Auto-rotating carousel (see Branch E: Carousels)
-- Auto-scrolling text or news ticker
-
+- [Auto-playing video](#g2-1-auto-playing-video)
+- [Auto-playing audio](#g2-2-auto-playing-audio)
+- [Auto-rotating carousel](#e6-2-auto-rotating-carousel)
+- [Auto-scrolling text or news ticker](#g2-3-auto-scrolling-content)
+  
 ---
 
 ## G2-1. Auto-Playing Video
@@ -4962,10 +4961,10 @@ document.getElementById('mute-audio').addEventListener('click', () => {
 > _What type of timed interaction?_  
 
 ### Options  
-- Session timeout (login session expires)
-- Form with time limit (exam, booking)
-- Countdown timer (sale, event)
-- Content that disappears after a set time (toast notifications)
+- [Session timeout](#g3-1-session-timeouts)
+- [Form with time limit](#g3-2-timed-forms)
+- [Countdown timer](#g3-3-countdown-timers)
+- [Content that disappears after a set time](#g3-4-toast-notifications)
 
 ---
 
@@ -5267,10 +5266,10 @@ function announceMilestones(hours, minutes) {
 > _What type of moving/updating content?_  
 
 ### Options  
-- Live feed or social media widget
-- Progress bars
-- Status updates or notifications
-- Live chat
+- [Live feed or social media widget](#g6-1-live-feeds)
+- [Progress bars](#g6-2-progress-bars)
+- [Status updates or notifications](#g6-3-status-updates)
+- [Live chat](#g6-4-live-chat-widgets)
 
 ---
 
@@ -5520,13 +5519,13 @@ function announceMilestones(hours, minutes) {
 > _What aspect of keyboard accessibility are you working on?_  
 
 ### Options  
-- Tab order and focus management
-- Focus indicators
-- Keyboard traps and modals
-- Custom keyboard interactions
-- Shortcut keys
-- Skip links
-- Testing keyboard accessibility
+- [Tab order and focus management](#h1-tab-order-and-focus-management)
+- [Focus indicators](#h2-focus-indicators)
+- [Keyboard traps and modals](#h3-keyboard-traps-and-modals)
+- [Custom keyboard interactions](#h4-custom-keyboard-interactions)
+- [Shortcut keys](#h5-shortcut-keys)
+- [Skip links](#h6-skip-links)
+- [Testing keyboard accessibility](#h7-testing-keyboard-accessibility)
 
 ---
 
