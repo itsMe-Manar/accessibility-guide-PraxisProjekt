@@ -3,7 +3,8 @@
 
 ---
 
-## Branch Overview
+<details>
+  <summary>Branch Overview</summary>
 
 - A. Images, Media, and Non-Text Content
   - A1. Images
@@ -192,6 +193,7 @@
   - H5. Shortcut Keys
   - H6. Skip Links
   - H7. Testing Keyboard Accessibility
+</details>
 
 # your accessibility guide
 
