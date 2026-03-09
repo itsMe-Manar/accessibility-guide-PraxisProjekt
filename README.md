@@ -4,6 +4,12 @@ This repository contains a practical accessibility guide for common web content 
 
 The guide is structured into topic branches such as images, forms, navigation, typography, interactive components, page structure, dynamic content, and keyboard accessibility. It is intended as a practical reference for checking designs and implementations against WCAG 2.2.
 
+## Project Context
+
+This guide was created in the context of my Praxisprojekt and is connected to the practical work surrounding my Bachelor's thesis.
+
+It represents a structured attempt to translate accessibility requirements into a more approachable and decision-based reference format. The goal was not to reproduce WCAG 2.2 in full, but to organize selected accessibility topics into a more practical guide that can support orientation, review, and discussion.
+
 ## Disclaimer
 
 This guide is a simplified and practical introduction to accessibility and is mainly intended as an entry point into the topic.
@@ -20,11 +26,19 @@ The purpose of this guide is to provide a structured and practical accessibility
 
 It is designed to help identify accessibility requirements, common implementation patterns, and WCAG 2.2 considerations for real user interface components.
 
+## What This Guide Represents
+
+This guide represents a simplified accessibility review workflow.
+
+It is intended as a practical support artifact that helps structure common accessibility topics into thematic branches and decision paths. In this sense, it can be understood as a simplified working version of selected WCAG 2.2-related considerations for typical front-end and interface contexts.
+
+It should not be understood as a formal accessibility audit, a complete compliance evaluation, or a substitute for the official standards documentation.
+
 ## Start Here
 
 Open the main guide here:
-- [Open the guide](guide_markdown.md)
 
+- [Open the guide](guide_markdown.md)
 
 ## Guide Structure
 
