@@ -199,14 +199,18 @@
 >What are you working on?
   
 ### Options  
-- A. Images, Media, or Non-Text Content
-- B. Forms and Input Fields 
-- C. Links and Navigation 
-- D. Text and Typography
-- E. Interactive Components
-- F. Page Structure and Layout
-- G. Dynamic Content and Updates
-- H. Keyboard Functionality
+# Your Accessibility Guide
+
+## What are you working on?
+
+- [A. Images, Media, or Non-Text Content](#a-images-media-and-non-text-content)
+- [B. Forms and Input Fields](#b-forms-and-input-fields)
+- [C. Links and Navigation](#c-links-and-navigation)
+- [D. Text and Typography](#d-text-and-typography)
+- [E. Interactive Components](#e-interactive-components)
+- [F. Page Structure and Layout](#f-page-structure-and-layout)
+- [G. Dynamic Content and Updates](#g-dynamic-content-and-updates)
+- [H. Keyboard Functionality](#h-keyboard-functionality)
 ---
 ## A. Images, Media, and Non-Text Content
 
