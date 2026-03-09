@@ -199,14 +199,14 @@
 >What are you working on?
   
 ### Options  
-- [[#A. Images, Media, or Non-Text Content]]  
-- [[#B. Forms and Input Fields]]  
-- [[#C. Links and Navigation]]  
-- [[#D. Text and Typography]]  
-- [[#E. Interactive Components]]  
-- [[#F. Page Structure and Layout]]  
-- [[#G. Dynamic Content and Updates]]  
-- [[#H. Keyboard Functionality]]
+- A. Images, Media, or Non-Text Content
+- B. Forms and Input Fields 
+- C. Links and Navigation 
+- D. Text and Typography
+- E. Interactive Components
+- F. Page Structure and Layout
+- G. Dynamic Content and Updates
+- H. Keyboard Functionality
 ---
 ## A. Images, Media, and Non-Text Content
 
